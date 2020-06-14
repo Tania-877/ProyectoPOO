@@ -1,0 +1,12 @@
+C:\Users\dtani\RiderProjects\Proyecto\bin\Debug\Proyecto.exe.config
+C:\Users\dtani\RiderProjects\Proyecto\bin\Debug\Proyecto.exe
+C:\Users\dtani\RiderProjects\Proyecto\bin\Debug\Proyecto.pdb
+C:\Users\dtani\RiderProjects\Proyecto\obj\Debug\Proyecto.csprojAssemblyReference.cache
+C:\Users\dtani\RiderProjects\Proyecto\obj\Debug\Proyecto.Properties.Resources.resources
+C:\Users\dtani\RiderProjects\Proyecto\obj\Debug\Proyecto.csproj.GenerateResource.cache
+C:\Users\dtani\RiderProjects\Proyecto\obj\Debug\Proyecto.exe
+C:\Users\dtani\RiderProjects\Proyecto\obj\Debug\Proyecto.pdb
+C:\Users\dtani\RiderProjects\Proyecto\obj\Debug\Proyecto.Puntajes.resources
+C:\Users\dtani\RiderProjects\Proyecto\obj\Debug\Proyecto.Nameuser.resources
+C:\Users\dtani\RiderProjects\Proyecto\obj\Debug\Proyecto.Inicio.resources
+C:\Users\dtani\RiderProjects\Proyecto\obj\Debug\Proyecto.Play.resources
