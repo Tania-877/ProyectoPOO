@@ -1,0 +1,22 @@
+C:\Users\dtani\RiderProjects\ArkanoidJuego\bin\Debug\ArkanoidJuego.exe.config
+C:\Users\dtani\RiderProjects\ArkanoidJuego\bin\Debug\ArkanoidJuego.exe
+C:\Users\dtani\RiderProjects\ArkanoidJuego\bin\Debug\ArkanoidJuego.pdb
+C:\Users\dtani\RiderProjects\ArkanoidJuego\obj\Debug\ArkanoidJuego.csprojAssemblyReference.cache
+C:\Users\dtani\RiderProjects\ArkanoidJuego\obj\Debug\ArkanoidJuego.Properties.Resources.resources
+C:\Users\dtani\RiderProjects\ArkanoidJuego\obj\Debug\ArkanoidJuego.csproj.GenerateResource.cache
+C:\Users\dtani\RiderProjects\ArkanoidJuego\obj\Debug\ArkanoidJuego.exe
+C:\Users\dtani\RiderProjects\ArkanoidJuego\obj\Debug\ArkanoidJuego.pdb
+C:\Users\dtani\RiderProjects\ArkanoidJuego\obj\Debug\ArkanoidJuego.Play.resources
+C:\Users\dtani\RiderProjects\ArkanoidJuego\obj\Debug\ArkanoidJuego.User.resources
+C:\Users\dtani\RiderProjects\ArkanoidJuego\obj\Debug\ArkanoidJuego.starting.resources
+C:\Users\Hernandez Martinez\Desktop\portafolio_00190918-master\ArkanoidJuego\bin\Debug\ArkanoidJuego.exe.config
+C:\Users\Hernandez Martinez\Desktop\portafolio_00190918-master\ArkanoidJuego\bin\Debug\ArkanoidJuego.exe
+C:\Users\Hernandez Martinez\Desktop\portafolio_00190918-master\ArkanoidJuego\bin\Debug\ArkanoidJuego.pdb
+C:\Users\Hernandez Martinez\Desktop\portafolio_00190918-master\ArkanoidJuego\obj\Debug\ArkanoidJuego.csprojResolveAssemblyReference.cache
+C:\Users\Hernandez Martinez\Desktop\portafolio_00190918-master\ArkanoidJuego\obj\Debug\ArkanoidJuego.Play.resources
+C:\Users\Hernandez Martinez\Desktop\portafolio_00190918-master\ArkanoidJuego\obj\Debug\ArkanoidJuego.Properties.Resources.resources
+C:\Users\Hernandez Martinez\Desktop\portafolio_00190918-master\ArkanoidJuego\obj\Debug\ArkanoidJuego.starting.resources
+C:\Users\Hernandez Martinez\Desktop\portafolio_00190918-master\ArkanoidJuego\obj\Debug\ArkanoidJuego.User.resources
+C:\Users\Hernandez Martinez\Desktop\portafolio_00190918-master\ArkanoidJuego\obj\Debug\ArkanoidJuego.csproj.GenerateResource.Cache
+C:\Users\Hernandez Martinez\Desktop\portafolio_00190918-master\ArkanoidJuego\obj\Debug\ArkanoidJuego.exe
+C:\Users\Hernandez Martinez\Desktop\portafolio_00190918-master\ArkanoidJuego\obj\Debug\ArkanoidJuego.pdb
